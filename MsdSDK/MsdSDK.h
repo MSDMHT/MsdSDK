@@ -1,9 +1,9 @@
 
 //
-//  PrivateSDK.h
+//  MsdSDK.h
 //  Pods
 //
-//  Created by MemoryFate on 2019/1/2.
+//  Created by muhammat on 2019/4/24.
 //
 
 #ifndef MsdSDK_h
